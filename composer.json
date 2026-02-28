@@ -1,5 +1,5 @@
 {
-    "name": "aschmelyun/fleet",
+    "name": "houseoftech/fleet",
     "description": "Run multiple Laravel Sail websites on your local environment",
     "keywords": [
         "aschmelyun",
@@ -9,12 +9,17 @@
         "docker",
         "traefik"
     ],
-    "homepage": "https://github.com/aschmelyun/fleet",
+    "homepage": "https://github.com/houseoftech/fleet",
     "license": "MIT",
     "authors": [
         {
             "name": "Andrew Schmelyun",
             "email": "me@aschmelyun.com",
+            "role": "Developer"
+        },
+        {
+            "name": "Corie Slate",
+            "email": "corie@houseoftech.com",
             "role": "Developer"
         }
     ],
